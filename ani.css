@@ -1,0 +1,94 @@
+*{
+    padding:0;
+    margin:0;
+}
+.l
+{
+    background-color: black;
+    position: relative;
+}
+.k
+{
+    background-color: red;
+    width:50px;
+    height:300px;
+    margin-left:20px;
+}
+.j
+{
+    background-color:red;
+    width:50px;
+    height:300px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.m
+{
+    background-color:red;
+    width:50px;
+    height:400px;
+    margin-left:400px;
+   margin-top:-1000px;
+}
+.q
+{
+    background-color:red;
+    width:50px;
+    height:400px;
+    margin-left:600px;
+   margin-top:-1000px; 
+}
+.x
+{
+    
+    background-color:red;
+    width:50px;
+    height:495px;
+    margin-left: 700px;
+    margin-top: 700px;
+}
+.z
+{    background-color: red;
+    width:50px;
+    height:500px;
+    margin-left:600px;
+
+}
+.vi
+{ background-color:red;
+    width:50px;
+    height:300px;
+    margin-left:600px;
+   margin-top:-1000px;
+
+}
+.po
+{
+    background-color:red;
+    width:50px;
+    height:300px;
+    margin-top: -800px;
+    margin-left:1800px;
+}
+#o
+{
+    height: 100px;
+    width:100px;
+    border-radius: 50px;
+    background-image: linear-gradient(blue,white);
+    position: absolute;
+    
+}
+.vinay
+{
+    animation-name: no;
+    animation-duration: 9s;
+    animation-iteration-count: infinite;
+}
+@keyframes no
+{
+   0%
+    {
+        transform:translateX(2000px);
+    }
+}
